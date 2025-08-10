@@ -65,7 +65,7 @@ This project analyzes the Chinook digital music store's transactional data to an
 1. Clone this repository
 2. Load the Chinook database into your SQL engine (MySQL/PostgreSQL)
 3. Run the SQL queries from the `Chinook Music Store Analysis.docx` file
-4. Refer to the presentation slides (if included) for visuals and executive summary
+4. Refer to the presentation slides for visuals and executive summary
 
 ---
 
